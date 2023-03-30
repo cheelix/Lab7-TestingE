@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAA6qXgwHL+UzjZ5gJ9VQU6jNKajcH7Ym+0ODgNJ1KgNyuImSn4Xa54EfVR149W9MT7gTwKKqEBPZU5emr/RDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sait\\repos\\Lab7-TestingE\\BasicMath211E\\BasicMath211E.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cheel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\cheel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\cheel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\cheel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

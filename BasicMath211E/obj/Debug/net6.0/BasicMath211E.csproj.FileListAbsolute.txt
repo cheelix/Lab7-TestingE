@@ -1,0 +1,15 @@
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\bin\Debug\net6.0\BasicMath211E.exe
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\bin\Debug\net6.0\BasicMath211E.deps.json
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\bin\Debug\net6.0\BasicMath211E.runtimeconfig.json
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\bin\Debug\net6.0\BasicMath211E.dll
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\bin\Debug\net6.0\BasicMath211E.pdb
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.csproj.AssemblyReference.cache
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.AssemblyInfoInputs.cache
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.AssemblyInfo.cs
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.csproj.CoreCompileInputs.cache
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.dll
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\refint\BasicMath211E.dll
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.pdb
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\BasicMath211E.genruntimeconfig.cache
+D:\Sait\repos\Lab7-TestingE\BasicMath211E\obj\Debug\net6.0\ref\BasicMath211E.dll
